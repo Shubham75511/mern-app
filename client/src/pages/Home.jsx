@@ -14,7 +14,7 @@ export default function Home() {
           </nav>
       
       </header>
-      <div className='flex flex-col items-center justify-center h-screen bg-cover bg-center' style={{ backgroundImage: 'url(/public/village.jpg)' }}>
+      <div className='flex flex-col items-center justify-center h-screen bg-cover bg-center' style={{ backgroundImage: 'url(/village.jpg)' }}>
         <h1>Welcome to the Village Stay</h1>
       <p>Your home away from home.</p>
       <p>Explore our beautiful village and find your perfect stay.</p>
