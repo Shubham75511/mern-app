@@ -23,10 +23,10 @@ export default function Home() {
       </div>
 
       <div className='flex flex-wrap items-center justify-center gap-4 p-4 bg-gray-200'>
-        <img src="/public/village1.jpg" alt="" />
-        <img src="/public/village2.jpg" alt="" />
-        <img src="/public/village3.jpg" alt="" />
-        <img src="/public/village4.jpg" alt="" />
+        <img src="/village1.jpg" alt="" />
+        <img src="/village2.jpg" alt="" />
+        <img src="/village3.jpg" alt="" />
+        <img src="/village4.jpg" alt="" />
       </div>
       <footer className='flex items-center justify-center w-full p-4 bg-blue-600 text-white'>
         <p>&copy; 2025 Village Stay. All rights reserved.</p>
