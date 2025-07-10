@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function SignIn() {
   return (
-    <div className="p-3 max-w-lg mx-auto">
+    <div className="bg-background m-20 p-3 max-w-lg mx-auto container shadow-lg ">
       <h1 className="text-3xl text-center font-semibold my-7">Sign In</h1>
       <form className="flex flex-col gap-4">
         <input
@@ -21,7 +21,7 @@ export default function SignIn() {
           type="submit"
           placeholder="Sign In"
           id="signin"
-          className="bg-orange-500 text-white p-3 rounded-lg uppercase hover:opacity-95 disabled:opacity-80"
+          className="bg-primary text-white p-3 rounded-lg uppercase hover:opacity-95 disabled:opacity-80"
         > SignIn
         </button>
       </form>

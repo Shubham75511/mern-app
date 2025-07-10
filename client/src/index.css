@@ -7,9 +7,14 @@ body {
   margin: 0px;
   padding: 0px;
   height: 100%;
-  font-family: sans-serif;
 }
 
 #root {
   height: 100%;
+}
+
+body {
+  font-family: Verdana, Tahoma, sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
 }
